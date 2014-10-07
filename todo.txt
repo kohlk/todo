@@ -44,7 +44,7 @@ SUN
 
 Misc. Info
 ------
-Olin 305: 3588
+3588
 aasmith, bioinfo: bio-student .ilovebio
 
 I'm owed:
